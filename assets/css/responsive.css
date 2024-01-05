@@ -1,0 +1,1330 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1920px) {
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1450px) {
+  .container {
+    width: 100%;
+    padding: 0 2%;
+  }
+
+  .img-right-mom {
+    margin: 122px 4% 0px 12px;
+    width: 290px;
+  }
+  p {
+    font-size: 18px;
+  }
+  .mb-30 {
+    margin-bottom: 20px;
+  }
+  .mom-area,
+  .discover-area,
+  .soul-area,
+  .dream-area,
+  .secret-area,
+  .hospital-area,
+  .ask-box,
+  .better-area {
+    padding: 0 2%;
+  }
+  .banner-txt h2 {
+    font-size: 40px;
+    padding: 0 30px;
+  }
+  .banner-txt p {
+    font-size: 20px;
+    padding: 0 30px;
+  }
+  .section-title-mom h3 {
+    font-size: 30px;
+    width: 100%;
+  }
+  .experiment-area {
+    /*! height: 130vh; */
+  }
+  .been-area {
+    height: 100vh;
+  }
+  .normal-area {
+    height: 130vh;
+  }
+  /* 1 */
+  .sp-title3 h3,
+  .sp-title4 h3 {
+    margin-left: 0;
+  }
+  .give-title {
+    margin: 0;
+  }
+  .shipping-title h3 {
+    padding: 0 10px;
+  }
+  .today-deserve-txt,
+  .today-txt-six {
+    padding: 0 15px;
+  }
+  .next-wrapper {
+    padding-left: 0;
+  }
+  .next-box img {
+    padding-right: 20px;
+  }
+  .devine-title h3 span.relative {
+    display: none;
+  }
+  .words-txt-bg {
+    padding-left: 15px;
+  }
+  .dis-card {
+    gap: 70px;
+  }
+  .img-card {
+    height: auto;
+  }
+  .img-card p {
+    font-size: 16px;
+    line-height: 24px;
+    padding: 10px;
+  }
+  .dis-text {
+    padding: 0px 0 20px 14px;
+    width: 100%;
+  }
+  .dis-text p,
+  .soul-right p {
+    font-size: 20px;
+  }
+  .soul-right {
+    max-width: 721px;
+    margin-left: 44px;
+  }
+  .my-title h4 {
+    padding: 20px 30px;
+  }
+  .happen-txt {
+    padding-left: 480px;
+  }
+  .happen-wrapper {
+    height: auto;
+    margin-left: 0;
+  }
+  .polite-area {
+    padding: 70px 2%;
+  }
+  .img-right {
+    margin: -66px 5% 0px 12px;
+    width: 300px;
+  }
+
+  .section-title2 h3 {
+    font-size: 23px;
+    line-height: 40px;
+  }
+  .brain-bg {
+    padding-left: 15px;
+  }
+  .ans-title h3 {
+    font-size: 24px;
+    padding: 0 10px;
+  }
+  .gland-txt {
+    max-width: 100%;
+  }
+  .devine-area {
+    margin-top: 0;
+  }
+  .ans-box {
+    padding: 25px 30px;
+    margin: 0 2%;
+  }
+  .ask-txt {
+    padding: 0 20px;
+  }
+  .ask-box img {
+    width: 290px;
+  }
+  .stock-txt {
+    padding: 0 10px;
+  }
+  .normal-area {
+    height: 100vh;
+    padding: 0 2%;
+  }
+  .detox-normal-title h3 {
+    font-size: 28px;
+    padding: 50px 20px;
+  }
+  .single-shipping-card {
+    margin-bottom: 30px;
+  }
+  .shipping-wrapper {
+    padding: 0 2%;
+  }
+  .org-shipping {
+    margin-top: 0;
+    max-height: unset;
+  }
+  .mirror-area {
+    height: 100vh;
+  }
+  .plug-txt {
+    height: auto;
+    margin-top: 0px;
+  }
+  .better-box {
+    padding: 90px 0;
+  }
+  .happen-txt h4,
+  .plug-title h3,
+  .reality-title h3,
+  .today-title-bg h3,
+  .ans-box p,
+  h3,
+  .normal-title,
+  .option-title h3,
+  .shipping-title h3,
+  .buy-title h3,
+  .remember-title,
+  .give-title,
+  .ask-title h3,
+  .section-title h3 {
+    font-size: 33px;
+  }
+
+  .happier-wrapper {
+    height: 80vh;
+  }
+  .happy-btm-fl {
+    display: flex;
+    justify-content: unset;
+  }
+  .next-box {
+    align-items: center;
+  }
+  .happen-txt h4 {
+    margin-bottom: 30px;
+  }
+  .been-area,
+  .simply-txt,
+  .hands-area,
+  .hopeless-feeling-area {
+    height: 100vh;
+  }
+  .hopeless-feeling-area {
+    /*! height: 80vh; */
+  }
+
+  .deserve-tiny {
+    margin-bottom: 28px;
+    margin-left: 0;
+  }
+  .buy-bottom-img {
+    padding: 0 2%;
+  }
+  .happy-pd,
+  .plug-txt,
+  .day-txt {
+    padding-left: 15px;
+  }
+  .happy-txt {
+    padding-left: 20px;
+  }
+  .img-right-today,
+  .img-right-most {
+    max-width: 350px;
+  }
+  .faq-box p {
+    font-size: 18px;
+  }
+  .faq-box h3 {
+    font-size: 25px;
+  }
+  .happen-txt p {
+    font-size: 19px;
+  }
+  .img-right-polite,
+  .img-right-brain {
+    margin: 13px 2% 0px 12px;
+    width: 290px;
+  }
+  .check-txt,
+  .mainfest-txt {
+    padding-left: 20px;
+  }
+  .check-main {
+    padding: 15px;
+  }
+  .mainfest-img img {
+    width: 700px;
+  }
+  .pt-140 {
+    padding-top: 40px;
+  }
+  .happy-img img {
+    height: 400px;
+  }
+  .start-txt {
+  }
+  .start-txt {
+    padding-left: 20px;
+  }
+  .org-lt-bg {
+    max-width: 100%;
+    padding: 36px 0;
+    border-radius: 20px;
+    margin: 0 20px;
+  }
+  .org-lt-bg h3 {
+    padding: 0 0px;
+  }
+  .today-first {
+    margin-top: -101px;
+  }
+  .second-box {
+    margin-bottom: 100px;
+  }
+  .img-right-future.third {
+    margin: -41px 2% 0px 12px;
+  }
+  .img-right-future.fourth {
+    margin: -81px 2% 0px 12px;
+  }
+  .img-right-seven {
+    margin: -201px 11% 0px 12px;
+  }
+  .img-right-six {
+    margin: -94px 2% 0px 12px;
+  }
+
+  .deserve-txt {
+    padding-left: 20px;
+  }
+  .deserve-bottom,
+  .today-txt,
+  .today-bottom {
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  .give-title {
+    margin-left: 0;
+  }
+  .today-title-bottom {
+    text-align: left;
+  }
+  .sp-title h3 {
+    margin-left: 184px;
+  }
+  .sp-title1 h3 {
+    margin-left: 0;
+    padding-right: 0;
+  }
+  .sp-title2 h3 {
+    font-size: 30px;
+    margin-left: 0;
+  }
+  .org-lt-bg {
+    max-width: 100%;
+  }
+  .img-right-polite,
+  .img-right-mom {
+    margin: 0;
+  }
+  .img-right-polite {
+    margin: 0;
+  }
+  .img-right-six {
+    margin: -82px 2% 0px 12px;
+  }
+  .white-box-2 {
+    bottom: -15px;
+    height: 22px;
+  }
+  .pl-35 {
+    padding-left: 0;
+  }
+  .happy-txt {
+    padding-left: 70px;
+  }
+  .option-title h3 {
+    margin-left: 26px;
+  }
+  .today-txt {
+    padding-left: 15px;
+  }
+  .option-title-third h3 {
+    margin-left: 35px;
+  }
+  .happy-img img {
+    width: unset;
+  }
+  /* **************************************************** */
+  .sp-title-secret,
+  .sp-title-hospital {
+    max-width: 100%;
+    border-radius: 20px;
+  }
+  .section-title.sp-title-hospital h3 {
+    margin-left: 0;
+  }
+  .option-title-third h3 {
+    font-size: 33px;
+  }
+  .first-txt {
+    margin-left: 0;
+  }
+  .sp-title3 h3 {
+    margin-left: 32px;
+  }
+  .awk-title {
+    max-width: 100%;
+  }
+  .happier-wrapper {
+    height: auto;
+  }
+  .remember-title {
+    padding: 50px 50px;
+  }
+  .option-txt {
+    padding-left: 0;
+  }
+  .first-txt {
+    padding: 0;
+  }
+  .sp-title7 h3 {
+    margin-left: 0;
+  }
+  .img-right-gur {
+    margin: -31px 10% 0px 12px;
+  }
+  .remember-title {
+    padding: 50px;
+  }
+  .story-top {
+    padding-left: 23px;
+  }
+  .want-txt {
+    padding: 0;
+    margin-left: 0;
+  }
+  .absolute-line2 {
+    display: none;
+  }
+  .sp-title5 h3 {
+    margin-left: 0;
+  }
+  .mirror-area {
+    height: 100vh;
+  }
+  .simply-txt {
+    background-position: top;
+  }
+  .sp-title2-gland {
+    padding: 30px;
+  }
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .container {
+    width: 100%;
+    padding: 0 2%;
+  }
+  .absolute-line2 {
+    display: none;
+  }
+  .banner-txt {
+    text-align: center;
+  }
+  .img-right-mom {
+    margin: 122px 4% 0px 12px;
+    width: 290px;
+  }
+  p {
+    font-size: 18px;
+  }
+  .mb-30 {
+    margin-bottom: 20px;
+  }
+  .mom-area,
+  .discover-area,
+  .soul-area,
+  .dream-area,
+  .secret-area,
+  .hospital-area,
+  .ask-box,
+  .better-area {
+    padding: 0 2%;
+  }
+  .banner-txt h2 {
+    font-size: 40px;
+    padding: 0 30px;
+  }
+  .banner-txt p {
+    font-size: 20px;
+    padding: 0 30px;
+  }
+  .section-title-mom h3 {
+    font-size: 30px;
+    width: 100%;
+  }
+  .next-box img {
+    width: 290px;
+    height: 400px;
+  }
+  /* 1 */
+  .sp-title3 h3,
+  .sp-title4 h3 {
+    margin-left: 0;
+  }
+  .give-title {
+    margin: 0;
+  }
+  .shipping-title h3 {
+    padding: 0 10px;
+  }
+  .today-deserve-txt,
+  .today-txt-six {
+    padding: 0 15px;
+  }
+  .next-wrapper {
+    padding-left: 0;
+  }
+  .next-box img {
+    padding-right: 20px;
+  }
+  .devine-title h3 span.relative {
+    display: none;
+  }
+  .words-txt-bg {
+    padding-left: 15px;
+  }
+  .dis-card {
+    gap: 10px;
+  }
+  .img-card {
+    height: 300px;
+  }
+  .img-card p {
+    font-size: 16px;
+    line-height: 24px;
+    padding: 10px;
+  }
+  .dis-text {
+    padding: 0px 0 20px 14px;
+    width: 100%;
+  }
+  .dis-text p,
+  .soul-right p {
+    font-size: 20px;
+  }
+  .soul-right {
+    max-width: 721px;
+    margin-left: 44px;
+  }
+  .my-title h4 {
+    padding: 20px 30px;
+  }
+  .happen-txt {
+    padding-left: 153px;
+    padding-right: 30px;
+  }
+  .happen-wrapper {
+    height: auto;
+    margin-left: 0;
+  }
+  .polite-area {
+    padding: 70px 2%;
+  }
+  .img-right {
+    margin: -66px 5% 0px 12px;
+    width: 300px;
+  }
+
+  .section-title2 h3 {
+    font-size: 23px;
+    line-height: 40px;
+  }
+  .brain-bg {
+    padding-left: 15px;
+  }
+  .ans-title h3 {
+    font-size: 24px;
+    padding: 0 10px;
+  }
+  .gland-txt {
+    max-width: 100%;
+  }
+  .devine-area {
+    margin-top: 0;
+  }
+  .ans-box {
+    padding: 25px 30px;
+    margin: 0 2%;
+  }
+  .ask-txt {
+    padding: 0 20px;
+  }
+  .ask-box img {
+    width: 290px;
+  }
+  .stock-txt {
+    padding: 0 10px;
+  }
+  .normal-area {
+    height: 60vh;
+    /*! padding: 0 2%; */
+  }
+  .detox-normal-title h3 {
+    font-size: 28px;
+    padding: 50px 20px;
+  }
+  .shipping-card {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+  }
+  .white-box-2 {
+    bottom: -2px;
+    height: 9px;
+  }
+  .today-first {
+    margin-top: 0;
+  }
+  .img-right-six {
+    width: 220px;
+  }
+  .img-right-seven {
+    float: right;
+    margin: -218px 11% 0px 12px;
+    width: 220px;
+  }
+  .today-txt-six {
+    max-width: 451px;
+  }
+  .pl-35 {
+    padding-left: 0;
+  }
+  .happier-txt {
+    padding-left: 15px;
+  }
+  .single-shipping-card {
+    margin-bottom: 30px;
+  }
+  .shipping-wrapper {
+    padding: 0 2%;
+  }
+  .org-shipping {
+    margin-top: 0;
+    max-height: unset;
+  }
+  /* *********************** */
+  .mirror-area {
+    height: auto;
+  }
+
+  .plug-txt {
+    height: auto;
+    margin-top: 0px;
+  }
+  .happen-txt h4,
+  .plug-title h3,
+  .reality-title h3,
+  .today-title-bg h3,
+  .ans-box p,
+  h3,
+  .normal-title,
+  .option-title h3,
+  .shipping-title h3,
+  .buy-title h3,
+  .remember-title,
+  .give-title,
+  .ask-title h3,
+  .section-title h3 {
+    font-size: 28px;
+    margin-left: 0;
+    text-align: center;
+  }
+  .experiment-area,
+  .happier-wrapper {
+    height: auto;
+  }
+  .next-box {
+    align-items: center;
+  }
+  .happen-txt h4 {
+    margin-bottom: 30px;
+  }
+  .been-area,
+  .simply-txt,
+  .hands-area,
+  .hopeless-feeling-area {
+    height: 55vh;
+  }
+  .border-lf::before,
+  .border-lf::after {
+    width: 35%;
+  }
+  .deserve-tiny {
+    margin-bottom: 28px;
+    margin-left: 0;
+  }
+  .buy-bottom-img {
+    padding: 0 2%;
+  }
+  .happy-pd,
+  .plug-txt,
+  .day-txt {
+    padding-left: 15px;
+  }
+  .happy-txt {
+    padding-left: 20px;
+  }
+  .today-feel {
+    margin-top: 0;
+  }
+  .img-right-today,
+  .img-right-most {
+    max-width: 350px;
+  }
+  .faq-box p {
+    font-size: 18px;
+  }
+  .faq-box h3 {
+    font-size: 25px;
+  }
+  .happen-txt p {
+    font-size: 19px;
+  }
+  .img-right-polite,
+  .img-right-brain {
+    margin: 13px 2% 0px 12px;
+    width: 290px;
+  }
+  .check-txt,
+  .mainfest-txt {
+    padding-left: 20px;
+  }
+  .check-main {
+    padding: 15px;
+  }
+  .mainfest-img img {
+    width: 700px;
+  }
+  .pt-140 {
+    padding-top: 40px;
+  }
+  .happy-img img {
+    width: 847px;
+    height: 400px;
+  }
+  .start-txt {
+    padding-left: 20px;
+  }
+  .org-lt-bg {
+    max-width: 100%;
+    padding: 36px 0;
+    border-radius: 20px;
+    margin: 0 20px;
+  }
+  .org-lt-bg h3 {
+    text-align: center;
+  }
+  .shipping-title {
+    padding: 20px;
+  }
+  .deserve-txt {
+    padding-left: 20px;
+  }
+  .deserve-bottom,
+  .today-txt,
+  .today-bottom {
+    padding-left: 0;
+  }
+  .option-title h3 {
+    margin-left: 15px;
+  }
+  .give-title {
+    margin-left: 0;
+  }
+  .today-title-bottom {
+    text-align: left;
+  }
+  .family-title {
+    padding: 0 20px;
+  }
+  .plug-area {
+    margin-top: 0;
+  }
+  .happy-img img {
+    width: unset;
+  }
+  /* ********************************** */
+  .sp-title-secret,
+  .sp-title-hospital {
+    border-radius: 20px;
+  }
+  .jaim-bold {
+    font-size: 25px;
+  }
+  .section-title2.hate h3 {
+    text-align: left;
+  }
+  .section-title.sp-title-hospital h3 {
+    margin-left: 0;
+    font-size: 28px;
+  }
+  .section-title h3 {
+    line-height: 33px;
+  }
+  .devine-title h3,
+  .devine-title-bg h3 {
+    font-size: 30px;
+    line-height: 33px;
+  }
+  .toxin-area {
+    height: auto;
+    padding-bottom: 20px;
+  }
+  .normal-title.berry {
+    text-align: left;
+  }
+  .section-title2 h3 {
+    text-align: left;
+  }
+  .img-right-pop {
+    max-width: 300px;
+  }
+  .happy-img img {
+    max-width: 275px;
+  }
+  .first-txt {
+    margin-left: 0;
+  }
+  .img-right-seven {
+    margin: -265px 2% 0px 12px;
+  }
+  .remember-title h3 {
+    font-size: 26px;
+    line-height: 33px;
+  }
+  .remember-title {
+    margin: 20px 0;
+  }
+  .option-txt {
+    padding-left: 0;
+  }
+  .first-txt {
+    padding: 0;
+  }
+}
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+  .container {
+    width: 100%;
+    padding: 0 5%;
+  }
+  .banner-txt h2 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .banner-txt {
+    text-align: center;
+  }
+  .section-title-mom h3 {
+    font-size: 25px;
+    text-align: center;
+  }
+  .img-card p {
+    padding: 10px 20px;
+  }
+  .img-card p,
+  .dis-text p,
+  .soul-right p,
+  .dream-txt p,
+  .happen-txt p,
+  .happen-txt h4,
+  .plug-title h3,
+  .reality-title h3,
+  .polite-text p,
+  .option span,
+  .today-txt ul li a,
+  .ans-option span,
+  .faq-title p,
+  .faq-box p {
+    font-size: 17px;
+    line-height: 28px;
+  }
+
+  .ans-box p,
+  h3,
+  .today-title-bg h3,
+  .normal-title,
+  .option-title h3,
+  .shipping-title h3,
+  .buy-title h3,
+  .remember-title,
+  .give-title,
+  .ask-title h3,
+  .section-title h3,
+  .my-title h4,
+  .family-title h4,
+  .words-txt-bg h2,
+  .section-title2 h3,
+  .ans-title h3,
+  .ans-title h3,
+  .devine-title-bg h3,
+  .coma,
+  .detox-normal-title h3,
+  .faq-box h3,
+  .devine-title h3,
+  .option-title-third h3 {
+    font-size: 19px;
+    line-height: 28px;
+  }
+  .img-right-most,
+  .img-right-polite,
+  .img-right-mom,
+  .img-right-seven,
+  .img-right-today,
+  .img-right-gur {
+    float: unset;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+  .words-bg,
+  .coma-top-bg,
+  .normal-area,
+  .mirror-area,
+  .experiment-area,
+  .simply-txt,
+  .hands-area,
+  .happier-wrapper,
+  .hopeless-feeling-area,
+  .plug-txt {
+    background: #f4f9ff;
+    height: auto;
+    padding-bottom: 20px;
+  }
+  .hos-wrapper-fl,
+  .shipping-card,
+  .happy-btm-fl,
+  .deserve-fl,
+  .dis-card {
+    display: block;
+  }
+  .normal-area,
+  .buy-main,
+  .next-box img {
+    height: auto;
+  }
+  .toxin-txt {
+    padding-left: 15px;
+  }
+  .plug-txt {
+    margin-top: -118px;
+    padding-left: 15px;
+  }
+  .simply {
+    margin-top: 40px;
+  }
+  .popular-bottom {
+    margin-bottom: 40px;
+  }
+  .img-right-gur {
+    max-width: 100%;
+  }
+  .simply-txt {
+    padding-left: 15px;
+  }
+  .day-txt {
+    padding: 0 15px;
+  }
+  .day-title-bg {
+    padding: 20px;
+  }
+  .buy-bottom-img {
+    margin-top: -24px;
+    margin-bottom: 40px;
+    padding: 0 15px;
+  }
+  .happier-txt {
+    padding-left: 15px;
+  }
+  .normal-bottom-area {
+    margin-top: 0;
+  }
+
+  .next-box img {
+    height: auto;
+  }
+  .ans-txt {
+    padding: 0;
+  }
+  .ans-box {
+    margin: 13px 13px;
+    padding: 20px;
+  }
+  .ask-box,
+  .next-box {
+    display: block;
+  }
+  .devine-title-bg {
+    padding: 20px;
+  }
+  .devine-area {
+    margin-top: 0;
+  }
+  .section-title h3 {
+    text-align: left;
+  }
+  .today-txt-six {
+    padding: 0;
+  }
+  .pl-35 {
+    padding-left: 0;
+  }
+  .story-top {
+    padding-left: 15px;
+  }
+  .toxin-area {
+    background: none;
+  }
+  .toxin-area {
+    height: auto;
+  }
+  .toxin-area {
+    padding-top: 0;
+  }
+  .today-txt {
+    padding: 0 5px;
+  }
+  .ans-title h3 {
+    padding: 10px;
+  }
+  .brain-bg {
+    margin-top: -250px;
+    padding: 15px 15px;
+  }
+  .dream-txt {
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+  }
+  .coma-main {
+    padding: 15px;
+  }
+  .coma-title-bg {
+    padding: 15px;
+  }
+  .coma-txt-bg {
+    padding: 50px 15px;
+  }
+  p {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  .mb-30 {
+    margin-bottom: 20px;
+  }
+  .mom-area {
+    padding-top: 40px;
+  }
+  .section-title-bg {
+    padding: 15px;
+  }
+  .img-card {
+    margin-bottom: 20px;
+  }
+  .dis-text {
+    padding: 15px;
+  }
+  .soul-wrapper-fl {
+    display: block;
+  }
+  .my-card-top {
+    margin-top: 0;
+  }
+  .dream-area {
+    height: auto;
+  }
+  .my-title h4 {
+    padding: 10px;
+  }
+
+  .happen-area {
+    background-position: right;
+    background-size: cover;
+  }
+  .happen-wrapper,
+  .mirror-area {
+    margin-left: 0;
+    height: auto;
+  }
+  .happen-txt {
+    padding-left: 0;
+  }
+  .happen-txt h4 {
+    margin-bottom: 25px;
+  }
+  .deserve-tiny {
+    margin-bottom: 20px;
+    margin-left: 0;
+  }
+  .polite-area {
+    padding: 30px 0;
+  }
+  .words-area {
+    padding-top: 0;
+    margin-top: 40px;
+  }
+  .words-txt-bg {
+    padding-left: 15px;
+  }
+
+  .img-right-future {
+    float: right;
+    margin: 0;
+    height: unset;
+  }
+  .img-right-today {
+    margin: 20px 0;
+  }
+  .today-feel {
+    margin-top: 30px;
+  }
+  .experiment-area {
+    padding: 40px 0;
+  }
+  .been-area {
+    height: auto;
+    background: #f4f9ff;
+    padding: 30px 0;
+    padding-bottom: 20px;
+  }
+  .happy-pd {
+    padding: 0 15px;
+  }
+  .today-bottom {
+    padding: 0 10px;
+  }
+  .today-title-bg {
+    padding: 20px;
+  }
+  .option-title h3 {
+    margin-left: 15px;
+  }
+  .border-lf::before,
+  .border-lf::after {
+    position: unset;
+  }
+  .img-right-life {
+    float: unset;
+    margin: 0;
+    max-width: 100%;
+  }
+  .happier-bottom-main .start-text {
+    padding-left: 0;
+  }
+  .plug-area {
+    margin-top: 0;
+  }
+  .check-main {
+    padding: 15px;
+  }
+  .org-lt-bg {
+    max-width: 100%;
+    padding: 10px 0;
+    border-radius: 20px;
+    margin: 10px;
+  }
+
+  .deserve-bottom {
+    padding-left: 0;
+  }
+  .start-txt {
+    padding-left: 0;
+  }
+  .single-shipping-card {
+    margin-bottom: 30px;
+  }
+  .org-shipping {
+    margin-top: 0;
+  }
+  .section-title {
+    text-align: center;
+  }
+  .section-title-next-month h3 {
+    text-align: left;
+  }
+  .next-wrapper {
+    padding-left: 0;
+  }
+  .desktop-none {
+    display: none;
+  }
+  .mobile-none {
+    display: none;
+  }
+  .img-card p {
+    padding: 10px 20px;
+  }
+  .sp-title3 h3,
+  .sp-title4 h3 {
+    margin-left: 0;
+  }
+  .give-title {
+    margin: 0;
+  }
+  .shipping-title h3 {
+    padding: 0 10px;
+  }
+  .img-right-future {
+    float: unset;
+    margin-bottom: 20px;
+  }
+  .img-right-six {
+    float: unset;
+  }
+  .today-first {
+    margin-top: 0;
+  }
+  .img-card {
+    height: auto;
+  }
+  .soul-right {
+    margin-left: 0;
+  }
+  .check-txt {
+    margin-left: 0;
+  }
+  .lists {
+    padding: 0 6%;
+  }
+  .today-deserve-txt {
+    padding: 0 0;
+  }
+  .ask-txt {
+    padding-left: 0;
+  }
+  .mainfest-txt {
+    padding-left: 0;
+  }
+  .today-txt {
+    padding: 0 15px;
+    margin-left: 10px;
+  }
+  .pl-50 {
+    padding-left: 15px;
+  }
+  .stock-txt {
+    padding-left: 0;
+  }
+  .today-txt {
+    padding: 0;
+    margin-left: 0;
+  }
+  .check-txt-content {
+    margin-left: 0;
+  }
+  .today-bottom {
+    padding: 0;
+  }
+  .happy-img img {
+    width: unset;
+  }
+  .sp-title-secret {
+    max-width: 100%;
+    margin: 0 3%;
+    border-radius: 20px;
+  }
+  .sp-title-secret h3 {
+    margin-left: 0;
+  }
+  .words-txts {
+    padding-right: 0;
+  }
+  .section-title.sp-title-hospital h3 {
+    margin-left: 0;
+    font-size: 20px;
+    padding-right: 0;
+  }
+  .sp-title-hospital {
+    border-radius: 20px;
+    margin: 0 20px;
+  }
+  .white-title h3 {
+    font-size: 20px;
+    line-height: 30px;
+    padding-right: 0;
+  }
+  .sp-title2-gland h3 {
+    margin-left: 0;
+  }
+  .next-txt {
+    padding-left: 0;
+  }
+  .day-title-bg .section-title h3 {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .blue-txt.relative.olivia {
+    font-size: 21px;
+  }
+  .absolute-line2 {
+    margin-top: 0;
+  }
+  .want-txt {
+    padding: 0;
+    margin-left: 0;
+  }
+  .img-purple-absolute-right.start {
+    bottom: -5px;
+  }
+  .simply-title-bg h3 {
+    font-size: 19px;
+    line-height: 33px;
+  }
+  .simply-title-bg {
+    padding: 10px;
+  }
+  .first-txt {
+    padding: 0;
+    margin-left: 0;
+  }
+  .option-title-third h3 {
+    margin-left: 15px;
+  }
+  .sp-title5 h3 {
+    margin-left: 0;
+  }
+  .happy-txt {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .remember-title h3 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .remember-title {
+    margin: 25px 0;
+  }
+  .shipping-title.future h3 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .shipping-title {
+    padding: 20px 0;
+  }
+  .option-txt {
+    padding-left: 0;
+  }
+  .sp-title7 h3 {
+    margin-left: 0;
+  }
+  .banner-txt p {
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
